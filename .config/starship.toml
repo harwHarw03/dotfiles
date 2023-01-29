@@ -1,0 +1,29 @@
+# ~/.config/starship.toml
+format = '''
+$hostname $directory $git_branch$git_status
+$custom$character'''
+
+[hostname]
+ssh_only = false
+format = "[$hostname]($style):"
+#trim_at = "-"
+style = "bold yellow"
+disabled = false
+
+[username]
+style_user = "bold yellow"
+disabled = false
+
+[character]
+error_symbol = "[✖](bold red) "
+
+[erlang]
+symbol = "ⓔ "
+
+[nodejs]
+symbol = "[⬢](bold green) "
+
+[git_branch]
+symbol = ' '
+truncation_symbol = ''
+ignore_branches = ['master', 'main']
