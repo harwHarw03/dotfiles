@@ -1,0 +1,24 @@
+station wlan0 get-networks 
+exit
+status
+device list
+station wlan0 connect Sticker 
+device wlan0 get-network
+station wlan0 get-networks 
+station wlan0 connect Sticker 
+device wlan0 get-network
+station wlan0 get-networks 
+clear
+exit
+known-netwoks list
+station device show
+station wlan0 
+station wlan0 show 
+exit
+station wlan0 get-networks 
+device wlan0 set-property Powered on
+adapter phy0 set-property Powered on
+station wlan0 get-networks 
+exit
+station wlan0 get-networks 
+exit

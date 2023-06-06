@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/harw/Downloads/wallpaperflare.com_wallpaper.jpg" added="2023-05-04T12:19:44.988409Z" modified="2023-05-04T12:25:33.055793Z" visited="2023-05-04T12:19:44.988410Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-05-04T12:19:44.988412Z" count="1"/>
+          <bookmark:application name="Eye of MATE Image Viewer" exec="&apos;eom %u&apos;" modified="2023-05-04T12:25:33.055787Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harw/Downloads/wallpaperflare.com_wallpaper(1).jpg" added="2023-05-04T12:19:50.056200Z" modified="2023-05-04T12:19:50.056213Z" visited="2023-05-04T12:19:50.056202Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-05-04T12:19:50.056205Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harw/Downloads/wallpaperflare.com_wallpaper(2).jpg" added="2023-05-04T12:20:31.801176Z" modified="2023-05-04T12:25:32.446693Z" visited="2023-05-04T12:20:31.801179Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-05-04T12:20:31.801211Z" count="1"/>
+          <bookmark:application name="Eye of MATE Image Viewer" exec="&apos;eom %u&apos;" modified="2023-05-04T12:25:32.446688Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harw/Downloads/wallpaperflare.com_wallpaper(3).jpg" added="2023-05-04T12:20:37.830574Z" modified="2023-05-04T12:20:37.830583Z" visited="2023-05-04T12:20:37.830576Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-05-04T12:20:37.830579Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harw/Downloads/wallpaperflare.com_wallpaper(4).jpg" added="2023-05-04T12:20:40.277625Z" modified="2023-05-04T12:20:40.277639Z" visited="2023-05-04T12:20:40.277627Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-05-04T12:20:40.277633Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harw/Downloads/wallpaperflare.com_wallpaper(5).jpg" added="2023-05-04T12:20:43.308103Z" modified="2023-05-04T12:20:43.308126Z" visited="2023-05-04T12:20:43.308108Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-05-04T12:20:43.308118Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harw/Downloads/wallpaperflare.com_wallpaper(6).jpg" added="2023-05-04T12:20:45.196122Z" modified="2023-05-04T12:20:45.196137Z" visited="2023-05-04T12:20:45.196126Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-05-04T12:20:45.196131Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harw/Downloads/wallpaperflare.com_wallpaper(7).jpg" added="2023-05-04T12:20:46.429620Z" modified="2023-05-04T12:25:33.919121Z" visited="2023-05-04T12:20:46.429622Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-05-04T12:20:46.429627Z" count="1"/>
+          <bookmark:application name="Eye of MATE Image Viewer" exec="&apos;eom %u&apos;" modified="2023-05-04T12:25:33.919117Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harw/Downloads/wallpaperflare.com_wallpaper(8).jpg" added="2023-05-04T12:20:49.374436Z" modified="2023-05-04T12:25:33.554137Z" visited="2023-05-04T12:20:49.374438Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-05-04T12:20:49.374462Z" count="1"/>
+          <bookmark:application name="Eye of MATE Image Viewer" exec="&apos;eom %u&apos;" modified="2023-05-04T12:25:33.554132Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harw/Pictures" added="2023-05-04T12:29:46.243498Z" modified="2023-05-04T12:29:46.243512Z" visited="2023-05-04T12:29:46.243501Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2023-05-04T12:29:46.243505Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harw/Pictures/wallpaper7.jpg" added="2023-05-05T02:52:52.436495Z" modified="2023-05-05T02:52:52.436513Z" visited="2023-05-05T02:52:52.436498Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2023-05-05T02:52:52.436505Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harw/Pictures/wallpaper8.jpg" added="2023-05-05T02:53:04.065277Z" modified="2023-05-05T02:53:04.065294Z" visited="2023-05-05T02:53:04.065280Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2023-05-05T02:53:04.065285Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harw/WEB" added="2023-05-08T01:19:40.438832Z" modified="2023-05-08T01:19:40.438840Z" visited="2023-05-08T01:19:40.438834Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-05-08T01:19:40.438836Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harw/Downloads/Modul%20Eksperimen%20Sistem%20Kendali%20v2022.pdf" added="2023-05-17T05:31:15.123061Z" modified="2023-05-17T05:31:15.123070Z" visited="2023-05-17T05:31:15.123063Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2023-05-17T05:31:15.123066Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harw/Downloads/source%20code%20dan%20struktur%20basisdata%20rekmed.rar" added="2023-05-26T13:08:56.321047Z" modified="2023-05-26T13:08:56.321056Z" visited="2023-05-26T13:08:56.321049Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2023-05-26T13:08:56.321052Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harw/Downloads/yii-basic-app-2.0.48.tgz" added="2023-05-26T15:27:43.686525Z" modified="2023-05-26T15:27:43.686533Z" visited="2023-05-26T15:27:43.686526Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2023-05-26T15:27:43.686529Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
